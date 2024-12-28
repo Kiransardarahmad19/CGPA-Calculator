@@ -6,6 +6,8 @@ The initial phase consists of careful data preprocessing to ensure data quality 
 Subsequently, exploratory data analysis reveals meaningful insights into the relationships among the variables. Comparative analysis is performed on at least 4-5 AI/ML algorithms in the core predictive modeling phase. Successful data validation procedures are used to build predictions and emphasize the strength of the models . 
 The final step is to develop a graphical user interface (GUI) that facilitates testing new data. Users can enter the context, select the desired prediction model, and see the predicted results, specifically focusing on SGPA and CGPA for the 5th grade.
 
+Read the full Report Here : https://drive.google.com/file/d/1xOrrw3cMXNC4t39R39Mu3C1_vQ0I3PNF/view?usp=sharing 
+
 ## Critical Path:
 A→B→G→C→D→E→F→I→J
 
